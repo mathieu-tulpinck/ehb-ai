@@ -1,3 +1,7 @@
 # Installation
 
-`pip install  -r requirements.txt`
+We recommend to create a virtual environment before running the Jupyter Notebook. We sugges to run following commands in the project directory:
+
+- `python3 -m venv .venv`
+- `source .venv/bin/activate`
+- `pip install  -r requirements.txt`
